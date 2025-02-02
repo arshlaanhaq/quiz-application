@@ -79,8 +79,14 @@ Response Example:
 
 
 ---
-## ScreenShot
-/
+## 📸 ScreenShot
+### Home
+![image](https://github.com/arshlaanhaq/quiz-application/blob/main/frontend/screenshots/home.png)
+### Quetion
+![image](https://github.com/arshlaanhaq/quiz-application/blob/main/frontend/screenshots/quetions.png)
+### Result
+![image](https://github.com/arshlaanhaq/quiz-application/blob/main/frontend/screenshots/result.png)
+
 ---
 
 ## 🤝 Contributing
