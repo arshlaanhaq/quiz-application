@@ -77,6 +77,10 @@ Response Example:
 ]
 ```
 
+
+---
+## ScreenShot
+/
 ---
 
 ## 🤝 Contributing
