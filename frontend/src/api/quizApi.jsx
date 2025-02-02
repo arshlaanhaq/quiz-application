@@ -3,7 +3,7 @@ import axios from "axios";
 export const fetchQuizData = async () => {
   try {
     // console.log("API request sent...");
-    const response = await axios.get("https://quiz-application-ikzr.onrender.com/quiz-data");
+    const response = await axios.get("http://localhost:5000/quiz-data");
     // console.log("API response:", response.data);
 
     // ✅ Ensure correct structure
